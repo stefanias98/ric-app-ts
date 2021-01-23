@@ -7,7 +7,7 @@
                 "image": {
                     "registry": "docker.io",
                     "name": "stefanias98/ric-app-ts",
-                    "tag": "1.0.11"
+                    "tag": "1.0.13"
                 }
             }
         ],
